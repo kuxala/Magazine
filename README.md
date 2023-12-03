@@ -1,4 +1,4 @@
-[Websie](https://kuxala.github.io/Magazine/)
+[#Website](https://kuxala.github.io/Magazine/)
 
 ![Mars Magazine](src/mars-background.png)
 
