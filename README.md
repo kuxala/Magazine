@@ -1,6 +1,6 @@
 # Mars Magazine
 
-![Mars Magazine](src/mars-background.png)
+![Mars Magazine]([src/mars-background.png](https://kuxala.github.io/Magazine/))
 
 ## Among the Stars - A Journey into Mars Colonization
 
