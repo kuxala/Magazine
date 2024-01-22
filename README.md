@@ -1,4 +1,4 @@
-[#Website](https://kuxala.github.io/Magazine/)
+[Live here](https://kuxala.github.io/Magazine/)
 
 ![Mars Magazine](src/mars-background.png)
 
