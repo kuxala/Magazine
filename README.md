@@ -19,7 +19,7 @@ Welcome to the GitHub repository for "Among the Stars," your premiere magazine e
 
 ### Introduction
 
-This repository contains the HTML and CSS code for the "Among the Stars" magazine webpage. It explores the possibilities and challenges of Mars colonization, featuring engaging content, stunning visuals, and a responsive design.
+Thais repository contains the HTML and CSS code for the "Among the Stars" magazine webpage. It explores the possibilities and challenges of Mars colonization, featuring engaging content, stunning visuals, and a responsive design.
 
 ### Sections
 
